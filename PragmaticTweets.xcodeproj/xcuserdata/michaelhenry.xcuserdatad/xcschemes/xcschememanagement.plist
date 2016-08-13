@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>PragmaticTweepsKeyboard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PragmaticTweets.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>PragmaticTweetsFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>998303181CC0C5DE00DBBC33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>998303211CC0C5DF00DBBC33</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>999A0DD61CC07DB800C2196E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99A4EAD01CAE7A0800911711</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99A4EAE41CAE7A0800911711</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99A4EAEF1CAE7A0800911711</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
